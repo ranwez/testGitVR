@@ -1,4 +1,3 @@
 # testGitVR
 
-local
 remote

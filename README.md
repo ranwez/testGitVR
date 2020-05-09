@@ -1,5 +1,4 @@
 # testGitVR
 
 test restore from older
-
-modif local
+modif remote

@@ -3,8 +3,8 @@
 You can easily use github to get w web site for your project.
 Go to setting
 ![setting position](https://miro.medium.com/max/1400/1*urnPtt5HXovCT5qwInXURA.png)
-scroll down to "Github pages"
-![github page dialog](https://miro.medium.com/max/1400/1*124pYgEpuutUArUAWF3kxw.png)
+
+then scroll down to "Github pages"
 
 ## You can write your page using markdown
 ** simple R loop example **

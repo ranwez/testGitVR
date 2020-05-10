@@ -1,6 +1,3 @@
 this
-is
-another
-filefile
-file
+is a
 test

@@ -12,17 +12,6 @@ Go to setting
 | **Fig1: finding the GitHub page settings** |
 
 
-<center>
-  
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-</center>
-
-
 scroll down to "Github pages"
 
 ![github page dialog](https://miro.medium.com/max/1400/1*124pYgEpuutUArUAWF3kxw.png)

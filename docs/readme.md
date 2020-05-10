@@ -6,10 +6,21 @@ see how long lines are displayed aarrear arzeraer aere aret efergfze rrg regerg 
 
 Go to setting
 
-<p align="center">
-  <img src="https://miro.medium.com/max/1400/1*urnPtt5HXovCT5qwInXURA.png"><br/>
-  <b>Fig1: finding the GitHub page settings</b>
-</p>
+
+| ![github page dialog](https://miro.medium.com/max/1400/1*urnPtt5HXovCT5qwInXURA.png) |
+|:---------:|
+| **Fig1: finding the GitHub page settings** |
+
+
+<center>
+  
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</center>
 
 
 scroll down to "Github pages"

@@ -7,7 +7,7 @@ see how long lines are displayed aarrear arzeraer aere aret efergfze rrg regerg 
 Go to setting
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*urnPtt5HXovCT5qwInXURA.png">
+  <img src="https://miro.medium.com/max/1400/1*urnPtt5HXovCT5qwInXURA.png"><br/>
   <b>Fig1: finding the GitHub page settings</b>
 </p>
 

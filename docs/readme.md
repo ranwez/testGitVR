@@ -7,6 +7,7 @@ see how long lines are displayed aarrear arzeraer aere aret efergfze rrg regerg 
 Go to setting
 
 ![setting position](https://miro.medium.com/max/1400/1*urnPtt5HXovCT5qwInXURA.png)
+*Fig1: GitHub's settings*
 
 
 scroll down to "Github pages"
